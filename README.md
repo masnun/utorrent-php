@@ -21,7 +21,7 @@ See code samples in the example.php file. The steps are somewhat like these:
 
 #### Calling the APIs ####
 
-All parameters to the API must be passed as associative arrays. So, when we want to list the toorents, we shall call the api with these params:
+All parameters to the API must be passed as associative arrays. So, when we want to list the torrents, we shall call the api with these params:
 
 	array(
 		"list" => 1
