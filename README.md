@@ -2,9 +2,7 @@
 
 #### An easy to use PHP wrapper of the uTorrent WebGUI APIs ####
 
-+ __Author:__ Abu Ashraf Masnun
-+ __Email:__ masnun@gmail.com
-+ __Web:__ http://masnun.com
++ __Feedback:__ masnun@gmail.com
 
 #### How to use? ####
 
